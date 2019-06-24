@@ -27,7 +27,7 @@ google_username: ""
 
 #url friendly
 permalink: /:categories/:title
-
+relative_permalinks: false
 #enlaces
 links:
   - title: about
