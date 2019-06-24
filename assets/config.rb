@@ -1,4 +1,4 @@
-http_path = "/"
+http_path = "/andialuis.github.io"
 css_dir = "."
 sass_dir = "../_sass"
 images_dir = "img"
